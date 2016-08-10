@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/0">
+	<sem xmlns="http://nitdgp.ac.in/">34.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">20.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">54.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx1">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">1.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/0">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/1">
+	<sem xmlns="http://nitdgp.ac.in/">48.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">72.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx2">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">2.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/1">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/2">
+	<sem xmlns="http://nitdgp.ac.in/">Nor</sem>
+	<ca xmlns="http://nitdgp.ac.in/">Nor</ca>
+	<total xmlns="http://nitdgp.ac.in/">Nor</total>
+	<grade xmlns="http://nitdgp.ac.in/">Nor</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx3">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">3.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/2">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/3">
+	<sem xmlns="http://nitdgp.ac.in/">44.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx4">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">4.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/3">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/4">
+	<sem xmlns="http://nitdgp.ac.in/">51.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">29.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx5">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">5.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/4">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/5">
+	<sem xmlns="http://nitdgp.ac.in/">39.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">21.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx6">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">6.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/5">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/6">
+	<sem xmlns="http://nitdgp.ac.in/">43.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">67.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx7">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">7.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/6">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/7">
+	<sem xmlns="http://nitdgp.ac.in/">30.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">16.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">46.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx8">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">8.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/7">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/8">
+	<sem xmlns="http://nitdgp.ac.in/">53.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">28.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">81.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx9">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">9.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/8">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/9">
+	<sem xmlns="http://nitdgp.ac.in/">29.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">14.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">43.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx10">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">10.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/9">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx10"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/10">
+	<sem xmlns="http://nitdgp.ac.in/">52.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">28.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx11">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">11.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/10">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/11">
+	<sem xmlns="http://nitdgp.ac.in/">44.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">68.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx12">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">12.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/11">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/12">
+	<sem xmlns="http://nitdgp.ac.in/">39.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">19.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">58.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx13">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">13.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/12">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx13"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/13">
+	<total xmlns="http://nitdgp.ac.in/">0.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">F</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx14">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">14.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/13">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx14"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/14">
+	<sem xmlns="http://nitdgp.ac.in/">36.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">18.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">54.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx15">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">15.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/14">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/15">
+	<sem xmlns="http://nitdgp.ac.in/">39.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">21.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx16">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">16.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/15">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx16"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/16">
+	<sem xmlns="http://nitdgp.ac.in/">39.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">21.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx17">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">17.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/16">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx17"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/17">
+	<sem xmlns="http://nitdgp.ac.in/">57.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">81.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx18">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">18.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/17">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx18"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/18">
+	<sem xmlns="http://nitdgp.ac.in/">53.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">27.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx19">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">19.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/18">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx19"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/19">
+	<sem xmlns="http://nitdgp.ac.in/">48.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx20">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">20.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/19">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx20"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/20">
+	<sem xmlns="http://nitdgp.ac.in/">51.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">77.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx21">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">21.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/20">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/21">
+	<sem xmlns="http://nitdgp.ac.in/">43.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">67.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx22">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">22.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/21">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/22">
+	<sem xmlns="http://nitdgp.ac.in/">37.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">19.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">56.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx23">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">23.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/22">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx23"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/23">
+	<sem xmlns="http://nitdgp.ac.in/">26.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">14.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">40.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx24">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">24.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/23">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx24"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/24">
+	<sem xmlns="http://nitdgp.ac.in/">51.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">77.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx25">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">25.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/24">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx25"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/25">
+	<sem xmlns="http://nitdgp.ac.in/">46.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx26">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">26.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/25">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx26"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/26">
+	<sem xmlns="http://nitdgp.ac.in/">23.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">17.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">40.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx27">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">27.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/26">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx27"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/27">
+	<sem xmlns="http://nitdgp.ac.in/">45.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx28">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">28.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/27">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx28"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/28">
+	<sem xmlns="http://nitdgp.ac.in/">56.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">29.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">85.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx29">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">29.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/28">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx29"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/29">
+	<sem xmlns="http://nitdgp.ac.in/">34.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">20.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">54.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx30">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">30.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/29">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx30"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/30">
+	<sem xmlns="http://nitdgp.ac.in/">40.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">62.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx31">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">31.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/30">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx31"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/31">
+	<sem xmlns="http://nitdgp.ac.in/">27.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">13.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">40.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx32">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">32.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/31">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx32"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/32">
+	<sem xmlns="http://nitdgp.ac.in/">33.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">20.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">53.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx33">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">33.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/32">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx33"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/33">
+	<sem xmlns="http://nitdgp.ac.in/">47.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">71.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx34">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">34.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/33">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx34"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/34">
+	<sem xmlns="http://nitdgp.ac.in/">52.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">28.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx35">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">35.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/34">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx35"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/35">
+	<sem xmlns="http://nitdgp.ac.in/">27.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">18.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">45.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx36">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">36.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/35">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx36"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/36">
+	<sem xmlns="http://nitdgp.ac.in/">45.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">71.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx37">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">37.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/36">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx37"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/37">
+	<sem xmlns="http://nitdgp.ac.in/">49.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">74.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx38">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">38.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/37">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx38"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/38">
+	<sem xmlns="http://nitdgp.ac.in/">50.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">76.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx39">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">39.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/38">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx39"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/39">
+	<sem xmlns="http://nitdgp.ac.in/">40.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">62.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx40">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">40.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/39">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx40"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/40">
+	<sem xmlns="http://nitdgp.ac.in/">49.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">74.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx41">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">41.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/40">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx41"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/41">
+	<sem xmlns="http://nitdgp.ac.in/">56.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">82.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx42">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">42.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/41">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/42">
+	<sem xmlns="http://nitdgp.ac.in/">44.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx43">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">43.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/42">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx43"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/43">
+	<sem xmlns="http://nitdgp.ac.in/">Nor</sem>
+	<ca xmlns="http://nitdgp.ac.in/">Nor</ca>
+	<total xmlns="http://nitdgp.ac.in/">Nor</total>
+	<grade xmlns="http://nitdgp.ac.in/">Nor</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx44">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">44.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/43">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/44">
+	<sem xmlns="http://nitdgp.ac.in/">53.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">27.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx45">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">45.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/44">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx45"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/45">
+	<sem xmlns="http://nitdgp.ac.in/">48.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx46">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">46.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/45">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx46"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/46">
+	<sem xmlns="http://nitdgp.ac.in/">55.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">27.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">82.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx47">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">47.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/46">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx47"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/47">
+	<sem xmlns="http://nitdgp.ac.in/">30.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">14.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">44.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx48">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">48.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/47">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx48"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/48">
+	<sem xmlns="http://nitdgp.ac.in/">33.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">17.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">50.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx49">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">49.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/48">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx49"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/49">
+	<sem xmlns="http://nitdgp.ac.in/">46.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">71.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx50">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">50.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/49">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx50"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/50">
+	<sem xmlns="http://nitdgp.ac.in/">34.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">56.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx51">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">51.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/50">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx51"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/51">
+	<sem xmlns="http://nitdgp.ac.in/">54.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx52">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">52.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/51">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx52"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/52">
+	<sem xmlns="http://nitdgp.ac.in/">31.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">14.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">45.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx53">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">53.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/52">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx53"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/53">
+	<sem xmlns="http://nitdgp.ac.in/">52.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">28.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx54">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">54.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/53">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx54"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/54">
+	<sem xmlns="http://nitdgp.ac.in/">53.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">75.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx55">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">55.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/54">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx55"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/55">
+	<sem xmlns="http://nitdgp.ac.in/">44.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx56">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">56.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/55">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx56"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/56">
+	<sem xmlns="http://nitdgp.ac.in/">49.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">74.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx57">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">57.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/56">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx57"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/57">
+	<sem xmlns="http://nitdgp.ac.in/">54.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">26.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx58">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">58.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/57">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx58"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/58">
+	<sem xmlns="http://nitdgp.ac.in/">52.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">28.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx59">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">59.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/58">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx59"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/59">
+	<sem xmlns="http://nitdgp.ac.in/">36.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">16.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">52.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx60">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">60.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/59">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx60"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/60">
+	<sem xmlns="http://nitdgp.ac.in/">33.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">15.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">48.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx61">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">61.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/60">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/61">
+	<sem xmlns="http://nitdgp.ac.in/">41.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">16.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">57.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx62">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">62.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/61">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx62"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/62">
+	<sem xmlns="http://nitdgp.ac.in/">39.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">21.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx63">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">63.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/62">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx63"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/63">
+	<sem xmlns="http://nitdgp.ac.in/">20.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">21.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">41.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx64">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">64.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/63">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx64"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/64">
+	<sem xmlns="http://nitdgp.ac.in/">37.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">23.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx65">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">65.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/64">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx65"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/65">
+	<sem xmlns="http://nitdgp.ac.in/">41.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">66.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx66">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">66.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/65">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx66"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/66">
+	<sem xmlns="http://nitdgp.ac.in/">52.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">28.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx67">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">67.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/66">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx67"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/67">
+	<sem xmlns="http://nitdgp.ac.in/">41.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">65.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx68">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">68.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/67">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx68"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/68">
+	<sem xmlns="http://nitdgp.ac.in/">36.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx69">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">69.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/68">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx69"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/69">
+	<sem xmlns="http://nitdgp.ac.in/">39.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">64.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx70">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">70.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/69">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx70"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/70">
+	<sem xmlns="http://nitdgp.ac.in/">15.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">15.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">30.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">F</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx71">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">71.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/70">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/71">
+	<sem xmlns="http://nitdgp.ac.in/">26.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">16.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">42.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx72">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">72.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/71">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/72">
+	<sem xmlns="http://nitdgp.ac.in/">19.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">15.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">34.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">F</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx73">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">73.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/72">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx73"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/73">
+	<sem xmlns="http://nitdgp.ac.in/">39.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">21.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx74">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">74.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/73">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx74"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/74">
+	<sem xmlns="http://nitdgp.ac.in/">41.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">21.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">62.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx75">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">75.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/74">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx75"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/75">
+	<sem xmlns="http://nitdgp.ac.in/">48.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">72.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx76">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">76.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/75">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx76"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/76">
+	<sem xmlns="http://nitdgp.ac.in/">43.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">27.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx77">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">77.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/76">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx77"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/77">
+	<sem xmlns="http://nitdgp.ac.in/">48.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx78">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">78.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/77">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx78"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/78">
+	<sem xmlns="http://nitdgp.ac.in/">50.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">75.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx79">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">79.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/78">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/79">
+	<sem xmlns="http://nitdgp.ac.in/">42.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">20.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">62.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx80">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">80.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/79">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx80"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/80">
+	<sem xmlns="http://nitdgp.ac.in/">51.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">25.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">76.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx81">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">81.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/80">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx81"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/81">
+	<sem xmlns="http://nitdgp.ac.in/">48.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">70.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">B</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx82">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">82.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/81">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx82"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/82">
+	<sem xmlns="http://nitdgp.ac.in/">36.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">24.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx83">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">83.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/82">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx83"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/83">
+	<sem xmlns="http://nitdgp.ac.in/">41.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">19.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">60.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">C</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx84">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">84.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/83">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx84"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/84">
+	<sem xmlns="http://nitdgp.ac.in/">24.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">16.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">40.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx85">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">85.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/84">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx85"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/85">
+	<sem xmlns="http://nitdgp.ac.in/">32.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">19.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">51.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx86">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">86.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/85">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx86"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/86">
+	<sem xmlns="http://nitdgp.ac.in/">36.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">22.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">58.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx87">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">87.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/86">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx87"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/87">
+	<sem xmlns="http://nitdgp.ac.in/">29.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">21.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">50.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">D</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx88">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">88.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/87">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/88">
+	<sem xmlns="http://nitdgp.ac.in/">16.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">14.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">30.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">F</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx89">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">89.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/88">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx89"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/89">
+	<sem xmlns="http://nitdgp.ac.in/">28.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">16.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">44.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx90">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">90.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/89">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx90"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/90">
+	<sem xmlns="http://nitdgp.ac.in/">53.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">27.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">80.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">A</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx91">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">91.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/90">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx91"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/91">
+	<sem xmlns="http://nitdgp.ac.in/">abs</sem>
+	<ca xmlns="http://nitdgp.ac.in/">abs</ca>
+	<total xmlns="http://nitdgp.ac.in/">abs</total>
+	<grade xmlns="http://nitdgp.ac.in/">abs</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx92">
+	<roll xmlns="http://nitdgp.ac.in/">13/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">92.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/91">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx92"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/92">
+	<sem xmlns="http://nitdgp.ac.in/">abs</sem>
+	<ca xmlns="http://nitdgp.ac.in/">abs</ca>
+	<total xmlns="http://nitdgp.ac.in/">abs</total>
+	<grade xmlns="http://nitdgp.ac.in/">abs</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx93">
+	<roll xmlns="http://nitdgp.ac.in/">12/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">65.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/92">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx93"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/93">
+	<sem xmlns="http://nitdgp.ac.in/">28.0</sem>
+	<ca xmlns="http://nitdgp.ac.in/">16.0</ca>
+	<total xmlns="http://nitdgp.ac.in/">44.0</total>
+	<grade xmlns="http://nitdgp.ac.in/">P</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx94">
+	<roll xmlns="http://nitdgp.ac.in/">12/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">80.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/93">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx94"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/94">
+	<sem xmlns="http://nitdgp.ac.in/">abs</sem>
+	<ca xmlns="http://nitdgp.ac.in/">abs</ca>
+	<total xmlns="http://nitdgp.ac.in/">abs</total>
+	<grade xmlns="http://nitdgp.ac.in/">abs</grade>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node1aimj7t2sx95">
+	<roll xmlns="http://nitdgp.ac.in/">12/IT/</roll>
+	<no xmlns="http://nitdgp.ac.in/">90.0</no>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitdgp.ac.in/94">
+	<rollno xmlns="http://nitdgp.ac.in/" rdf:nodeID="node1aimj7t2sx95"/>
+</rdf:Description>
+
+</rdf:RDF>
